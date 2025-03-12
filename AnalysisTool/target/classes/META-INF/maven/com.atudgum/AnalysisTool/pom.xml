@@ -1,0 +1,33 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.atudgum</groupId>
+  <artifactId>AnalysisTool</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>AnalysisTool</name>
+  
+  <dependencies>
+	  <dependency>
+	    <groupId>com.github.javaparser</groupId>
+	    <artifactId>javaparser-symbol-solver-core</artifactId>
+	    <version>3.26.3</version>
+	  </dependency>
+	  
+	  <dependency>
+	    <groupId>org.ow2.asm</groupId>
+	    <artifactId>asm</artifactId>
+	    <version>9.4</version> 
+	  </dependency>
+		
+	<dependency>
+		<groupId>io.github.java-diff-utils</groupId>
+		<artifactId>java-diff-utils</artifactId>
+		<version>4.12</version>
+	</dependency>
+	
+	<dependency>
+      <groupId>com.google.code.gson</groupId>
+      <artifactId>gson</artifactId>
+      <version>2.8.5</version>
+    </dependency>
+  </dependencies>
+</project>
