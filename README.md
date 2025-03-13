@@ -1,5 +1,4 @@
-# TestSyncer
-## sample
+## Projects
 sample.zip is the sample set used in experiment.
 
 ## PromptAndResult
