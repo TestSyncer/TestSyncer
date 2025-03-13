@@ -1,5 +1,5 @@
 ## Projects
-sample.zip is the sample set used in experiment.
+Projects folder is used to store all the repositories needed for experiment, it contains only two samples now. You need to run run_setup.py to supplement the remaining samples
 
 ## PromptAndResult
 PromptAndResult.zip contains the results of our experiment, including the generated prompts and generated test methods.
