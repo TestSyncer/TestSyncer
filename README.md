@@ -1,24 +1,11 @@
 # TestSyncer
-Here is the relevant code and data for ATUDGUM. Data in main branch.
+Here is the relevant code and data for TestSyncer. Data in master branch.
 
-## StaticAnalysisTool
-The project is used to analyze the types of production code changes that make test code obsolete and to build prompt. In StaticAnalysisTool/src/use/Usage.java, there are specific examples demonstrating how to use this project for code change type analysis and prompt construction.
+## AnalysisTool
+This project is used to analyze Change Types and extract Dependency Contexts and Caller Contexts to build prompt. In StaticAnalysisTool/src/use/Usage.java, there are specific examples demonstrating how to use this project for code change type analysis and prompt construction.
 
 ## jars
 This folder contains some JAR files that you need to import into the StaticAnalysisTool project in order to run it.
 
 ## eval
 This folder contains some Python programs for evaluating the experimental results.
-**TestSyncer/TestSyncer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
